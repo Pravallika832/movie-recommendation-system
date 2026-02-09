@@ -51,7 +51,7 @@ movie-recommender/
 
 Clone the repository
 
-git clone https://github.com/YOURUSERNAME/movie-recommender-system.git
+git clone https://github.com/Pravallika832/movie-recommendation-system
 
 Go into the project folder
 
